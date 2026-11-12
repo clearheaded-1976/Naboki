@@ -191,4 +191,4 @@ This repository serves as the official landing page for Naboki. The software is 
 **Get the most recent version of Naboki today!**
 
 ---
-**Last updated:** 2026-11-12 09:00:11 UTC
+**Last updated:** 2026-11-12 17:49:12 UTC
